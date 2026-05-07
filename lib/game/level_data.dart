@@ -21,6 +21,7 @@ class Bottle {
   Bottle(this.liquid);
   Bottle clone() => Bottle(List.of(liquid));
   bool get isEmpty => liquid.isEmpty;
+  bool get isNotEmpty => liquid.isNotEmpty;
   bool get isFull => liquid.length >= kBottleCapacity;
   Color? get top => liquid.isEmpty ? null : liquid.last;
   bool get sorted =>
