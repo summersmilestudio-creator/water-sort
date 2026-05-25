@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import '../widgets/banner_ad_widget.dart';
+import '../services/ads_service.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../game/level_data.dart';
@@ -46,6 +48,7 @@ class _GameScreenState extends State<GameScreen> {
         _saveProgress();
         Future.delayed(const Duration(milliseconds: 400), () {
           if (!mounted) return;
+          AdsService.instance.maybeShowInterstitial();
           showDialog(
             context: context,
             builder: (c) => AlertDialog(
@@ -105,6 +108,7 @@ class _GameScreenState extends State<GameScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      bottomNavigationBar: const BannerAdWidget(),
       appBar: AppBar(
         title: Text('Nivel ${widget.level}'),
         backgroundColor: Colors.transparent,
