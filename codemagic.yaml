@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 30
     instance_type: mac_mini_m2
     environment:
-      flutter: stable
+      flutter: 3.41.4
       xcode: latest
       cocoapods: default
     scripts:
@@ -35,7 +35,7 @@ workflows:
     max_build_duration: 45
     instance_type: mac_mini_m2
     environment:
-      flutter: stable
+      flutter: 3.41.4
       xcode: latest
       cocoapods: default
       groups:
