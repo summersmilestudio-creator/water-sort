@@ -1,0 +1,63 @@
+{
+  "default_language": "en-US",
+  "title": "Water Sort Puzzle",
+  "short_description": "Sort colored water in tubes. Relaxing logical puzzle.",
+  "full_description": "Water Sort Puzzle — pour, sort, and solve in the most relaxing logic puzzle on Android.\n\n★ HOW TO PLAY\nTap a tube to pour water into another. Sort the water so each tube contains a single color. Sounds simple — but with 1000+ levels of increasing complexity, your brain will get a real workout.\n\n★ FEATURES\n• 1000+ handcrafted levels\n• Endless mode with random level generator\n• Undo and hint power-ups\n• Add tube to unstuck difficult levels\n• 8 achievements\n• Leaderboard\n• Smooth water animations\n• Calming sound design\n• Plays offline\n\n★ THE PERFECT BREAK\nNo ads forced between every level. No fake difficulty. Just clean puzzle design that respects your time.\n\n★ ZERO PRESSURE\nNo timer. No lives. Take as long as you need. If you get stuck, undo, hint, or add a tube — never stuck for good.",
+  "translations": {
+    "en-US": {
+      "title": "Water Sort Puzzle",
+      "short_description": "Sort colored water in tubes. Relaxing logical puzzle.",
+      "full_description": "Water Sort Puzzle — pour, sort, and solve in the most relaxing logic puzzle on Android.\n\n★ HOW TO PLAY\nTap a tube to pour water into another. Sort the water so each tube contains a single color. Sounds simple — but with 1000+ levels of increasing complexity, your brain will get a real workout.\n\n★ FEATURES\n• 1000+ handcrafted levels\n• Endless mode with random level generator\n• Undo and hint power-ups\n• Add tube to unstuck difficult levels\n• 8 achievements\n• Leaderboard\n• Smooth water animations\n• Calming sound design\n• Plays offline\n\n★ THE PERFECT BREAK\nNo ads forced between every level. No fake difficulty. Just clean puzzle design that respects your time.\n\n★ ZERO PRESSURE\nNo timer. No lives. Take as long as you need. If you get stuck, undo, hint, or add a tube — never stuck for good."
+    },
+    "zh-CN": {
+      "title": "水分类拼图",
+      "short_description": "对管中的有色水进行分类。轻松的逻辑谜题。",
+      "full_description": "Water Sort Puzzle — 在 Android 上最轻松的逻辑谜题中倒水、排序并解决。\n\n★ 怎么玩\n点击一个管子将水倒入另一个管子中。对水进行分类，使每个管子都包含单一颜色。听起来很简单，但随着 1000 多个级别的复杂性不断增加，您的大脑将得到真正的锻炼。\n\n★ 特点\n• 1000 多个手工制作的关卡\n• 带有随机电平发生器的无尽模式\n• 撤消和提示道具\n• 添加管子以解锁困难的关卡\n• 8 项成就\n• 排行榜\n• 流畅的水动画\n• 平静的声音设计\n• 离线播放\n\n★ 完美的休息\n每个级别之间都没有强制广告。没有假困难。只是干净的拼图设计，尊重您的时间。\n\n★ 零压力\n没有计时器。没有生命。需要多久就服用多久。如果你卡住了，撤消、提示或添加一根管子——永远不会卡住。"
+    },
+    "es-419": {
+      "title": "Rompecabezas de clasificación",
+      "short_description": "Clasifique el agua coloreada en tubos. Relajante rompecabezas lógico.",
+      "full_description": "Water Sort Puzzle: vierte, clasifica y resuelve en el acertijo de lógica más relajante de Android.\n\n★ CÓMO JUGAR\nGolpee un tubo para verter agua en otro. Clasifica el agua para que cada tubo contenga un solo color. Suena simple, pero con más de 1000 niveles de complejidad creciente, tu cerebro se ejercitará de verdad.\n\n★ CARACTERÍSTICAS\n• Más de 1000 niveles hechos a mano\n• Modo sin fin con generador de niveles aleatorios\n• Deshacer y sugerir potenciadores\n• Añade un tubo para despegar niveles difíciles.\n• 8 logros\n• Tabla de clasificación\n• Animaciones de agua suave\n• Diseño de sonido relajante\n• Juega sin conexión\n\n★ EL DESCANSO PERFECTO\nNo hay anuncios forzados entre todos los niveles. Sin dificultad falsa. Simplemente limpie el diseño del rompecabezas que respete su tiempo.\n\n★ PRESIÓN CERO\nSin temporizador. Sin vidas. Tómate el tiempo que necesites. Si te quedas atascado, deshazlo, insinúa o agrega un tubo, nunca te quedes atascado para siempre."
+    },
+    "fr-FR": {
+      "title": "Puzzle de tri de l'eau",
+      "short_description": "Triez l’eau colorée dans des tubes. Puzzle logique relaxant.",
+      "full_description": "Water Sort Puzzle : versez, triez et résolvez le puzzle logique le plus relaxant sur Android.\n\n★ COMMENT JOUER\nAppuyez sur un tube pour verser de l'eau dans un autre. Triez l'eau pour que chaque tube contienne une seule couleur. Cela semble simple, mais avec plus de 1 000 niveaux de complexité croissante, votre cerveau bénéficiera d'un véritable entraînement.\n\n★ CARACTÉRISTIQUES\n• Plus de 1 000 niveaux fabriqués à la main\n• Mode sans fin avec générateur de niveaux aléatoires\n• Annuler et suggérer des power-ups\n• Ajoutez un tube pour décoller les niveaux difficiles\n• 8 réalisations\n• Classement\n• Animations d'eau douce\n• Conception sonore apaisante\n• Joue hors ligne\n\n★ LA PAUSE PARFAITE\nAucune publicité forcée entre chaque niveau. Pas de fausse difficulté. Un design de puzzle épuré qui respecte votre temps.\n\n★ PRESSION ZÉRO\nPas de minuterie. Aucune vie. Prenez le temps dont vous avez besoin. Si vous êtes bloqué, annulez, faites allusion ou ajoutez un tube – ne restez jamais bloqué pour de bon."
+    },
+    "de-DE": {
+      "title": "Wassersortierpuzzle",
+      "short_description": "Farbiges Wasser in Tuben sortieren. Entspannendes logisches Rätsel.",
+      "full_description": "Wassersortierrätsel – gießen, sortieren und lösen Sie das entspannendste Logikrätsel auf Android.\n\n★ WIE MAN SPIELT\nTippen Sie auf ein Rohr, um Wasser in ein anderes zu gießen. Sortieren Sie das Wasser so, dass jedes Röhrchen eine einzige Farbe enthält. Klingt einfach – aber mit mehr als 1.000 Levels mit zunehmender Komplexität wird Ihr Gehirn richtig trainiert.\n\n★ EIGENSCHAFTEN\n• Über 1000 handgefertigte Levels\n• Endlosmodus mit Zufallsgenerator\n• Power-Ups rückgängig machen und andeuten\n• Fügen Sie eine Röhre hinzu, um schwierige Level zu lösen\n• 8 Erfolge\n• Bestenliste\n• Sanfte Wasseranimationen\n• Beruhigendes Sounddesign\n• Spielt offline\n\n★ DER PERFEKTE PAUSE\nKeine erzwungene Werbung zwischen den einzelnen Leveln. Kein vorgetäuschter Schwierigkeitsgrad. Einfach ein klares Puzzle-Design, das Ihre Zeit respektiert.\n\n★ NULL DRUCK\nKein Timer. Keine Leben. Nehmen Sie sich so lange Zeit, wie Sie brauchen. Wenn Sie nicht weiterkommen, machen Sie eine Tube rückgängig, machen Sie einen Hinweis oder fügen Sie sie hinzu – Sie bleiben nie für immer hängen."
+    },
+    "it-IT": {
+      "title": "Puzzle dell'ordinamento dell'a",
+      "short_description": "Ordina l'acqua colorata nei tubi. Puzzle logico rilassante.",
+      "full_description": "Puzzle di ordinamento dell'acqua: versa, ordina e risolvi il puzzle logico più rilassante su Android.\n\n★ COME GIOCARE\nTocca un tubo per versare l'acqua in un altro. Ordina l'acqua in modo che ogni provetta contenga un solo colore. Sembra semplice, ma con oltre 1000 livelli di complessità crescente, il tuo cervello potrà allenarsi davvero.\n\n★ CARATTERISTICHE\n• Oltre 1000 livelli realizzati a mano\n• Modalità infinita con generatore di livelli casuale\n• Annulla e suggerisci potenziamenti\n• Aggiungi un tubo per sbloccare i livelli difficili\n• 8 risultati\n• Classifica\n• Animazioni fluide dell'acqua\n• Design sonoro rilassante\n• Riproduce offline\n\n★ LA PAUSA PERFETTA\nNessuna pubblicità forzata tra ogni livello. Nessuna falsa difficoltà. Basta un design pulito e pulito che rispetti il ​​tuo tempo.\n\n★ PRESSIONE ZERO\nNessun timer. Nessuna vita. Prenditi tutto il tempo che ti serve. Se rimani bloccato, annulli, suggerisci o aggiungi un tubo, non sarai mai bloccato per sempre."
+    },
+    "pt-BR": {
+      "title": "Quebra-cabeça de classificação",
+      "short_description": "Classifique a água colorida em tubos. Quebra-cabeça lógico relaxante.",
+      "full_description": "Water Sort Puzzle - despeje, classifique e resolva o quebra-cabeça lógico mais relaxante do Android.\n\n★ COMO JOGAR\nBata em um tubo para despejar água em outro. Classifique a água para que cada tubo contenha uma única cor. Parece simples, mas com mais de 1.000 níveis de complexidade crescente, seu cérebro vai se exercitar de verdade.\n\n★ RECURSOS\n• Mais de 1.000 níveis artesanais\n• Modo infinito com gerador de nível aleatório\n• Desfazer e sugerir power-ups\n• Adicione tubo para desbloquear níveis difíceis\n• 8 conquistas\n• Tabela de classificação\n• Animações suaves de água\n• Design de som relaxante\n• Joga off-line\n\n★ A pausa perfeita\nNenhum anúncio forçado entre todos os níveis. Nenhuma dificuldade falsa. Basta limpar o design do quebra-cabeça que respeite o seu tempo.\n\n★ PRESSÃO ZERO\nSem cronômetro. Sem vidas. Leve o tempo que precisar. Se você ficar preso, desfaça, dê dicas ou adicione um tubo – nunca fique preso para sempre."
+    },
+    "ru-RU": {
+      "title": "Головоломка с сортировкой воды",
+      "short_description": "Сортируйте окрашенную воду в пробирки. Расслабляющая логическая головоломка.",
+      "full_description": "Головоломка с сортировкой воды — наливайте, сортируйте и решайте самую расслабляющую логическую головоломку на Android.\n\n★ КАК ИГРАТЬ\nНажмите на трубку, чтобы перелить воду в другую. Отсортируйте воду так, чтобы каждая пробирка содержала один цвет. Звучит просто, но с более чем 1000 уровнями возрастающей сложности ваш мозг получит настоящую тренировку.\n\n★ ОСОБЕННОСТИ\n• Более 1000 созданных вручную уровней.\n• Бесконечный режим с генератором случайных уровней.\n• Отменить и подсказать бонусы\n• Добавьте трубку, чтобы отклеить сложные уровни.\n• 8 достижений\n• Таблица лидеров\n• Плавная анимация воды.\n• Успокаивающее звуковое оформление.\n• Играет в автономном режиме\n\n★ ИДЕАЛЬНЫЙ ОТДЫХ\nНикакой рекламы между уровнями нет. Никаких ложных сложностей. Просто чистый дизайн головоломки, который уважает ваше время.\n\n★ НУЛЕВОЕ ДАВЛЕНИЕ\nНет таймера. Никаких жизней. Возьмите столько времени, сколько вам нужно. Если вы застряли, отмените действие, подскажите или добавьте трубку — никогда не застрянете навсегда."
+    },
+    "ja-JP": {
+      "title": "水並べパズル",
+      "short_description": "色の付いた水をチューブに分類します。リラックスできる論理パズル。",
+      "full_description": "Water Sort Puzzle — Android で最もリラックスできるロジック パズルで注いで、並べ替え、解決します。\n\n★遊び方\nチューブをタップして別のチューブに水を注ぎます。各チューブに単一の色が含まれるように水を分類します。単純そうに聞こえますが、1,000 以上のレベルで複雑さが増すため、脳は真のトレーニングを受けることになります。\n\n★特徴\n• 1000以上の手作りレベル\n• ランダムレベルジェネレーターを備えたエンドレスモード\n• パワーアップの取り消しとヒント\n• 詰まっていない難しいレベルにチューブを追加する\n• 8つの実績\n• リーダーボード\n• 滑らかな水のアニメーション\n• 落ち着いたサウンドデザイン\n• オフラインで再生可能\n\n★ 完璧な休憩\n各レベル間で強制される広告はありません。偽りの難しさはありません。あなたの時間を尊重する、すっきりとしたパズルのデザイン。\n\n★ゼロプレッシャー\nタイマーはありません。命はありません。必要なだけ時間をかけてください。行き詰まった場合は、元に戻したり、ヒントを与えたり、チューブを追加したりしてください。決して行き詰まってはいけません。"
+    },
+    "ko-KR": {
+      "title": "물 분류 퍼즐",
+      "short_description": "튜브에 담긴 색깔 있는 물을 분류하세요. 편안한 논리 퍼즐.",
+      "full_description": "물 분류 퍼즐 — 안드로이드에서 가장 편안한 논리 퍼즐을 붓고, 분류하고, 풀어보세요.\n\n★ 플레이 방법\n튜브를 탭하여 다른 튜브에 물을 붓습니다. 각 튜브에 단일 색상이 포함되도록 물을 정렬합니다. 간단해 보이지만 1000개 이상의 레벨이 증가하면서 복잡해지면서 두뇌가 실제로 운동하게 됩니다.\n\n★ 특징\n• 1000개 이상의 직접 제작한 레벨\n• 무작위 레벨 생성기를 갖춘 무한 모드\n• 실행 취소 및 파워업 힌트\n• 어려운 레벨을 풀려면 튜브를 추가하세요.\n• 8개의 업적\n• 리더보드\n• 부드러운 물 애니메이션\n• 차분한 사운드 디자인\n• 오프라인으로 재생\n\n★ 완벽한 휴식\n모든 레벨 사이에 광고가 강제로 적용되지 않습니다. 가짜 어려움이 없습니다. 당신의 시간을 존중하는 깔끔한 퍼즐 디자인.\n\n★ 제로 압력\n타이머가 없습니다. 생명이 없습니다. 필요한 만큼 오래 복용하세요. 막히거나, 실행 취소하거나, 힌트를 주거나, 튜브를 추가하더라도 영원히 막히지는 않습니다."
+    },
+    "ar": {
+      "title": "لغز فرز المياه",
+      "short_description": "فرز المياه الملونة في الأنابيب. الاسترخاء اللغز المنطقي.",
+      "full_description": "لغز فرز المياه - قم بصب وفرز وحل اللغز المنطقي الأكثر راحة على Android.\n\n★ كيفية اللعب\nاضغط على أنبوب لصب الماء في آخر. قم بفرز الماء بحيث يحتوي كل أنبوب على لون واحد. يبدو الأمر بسيطًا - ولكن مع أكثر من 1000 مستوى من التعقيد المتزايد، سيحصل عقلك على تمرين حقيقي.\n\n★ المميزات\n• 1000+ المستويات يدويا\n• وضع لا نهاية له مع مولد مستوى عشوائي\n• التراجع وتلميح شكا من السلطة\n• إضافة أنبوب إلى مستويات صعبة غير عالقة\n• 8 إنجازات\n• المتصدرين\n• الرسوم المتحركة المياه على نحو سلس\n• تصميم الصوت الهادئ\n• يلعب حاليا\n\n★ الاستراحة المثالية\nلا توجد إعلانات القسري بين كل مستوى. لا صعوبة وهمية. مجرد تصميم لغز نظيف يحترم وقتك.\n\n★ الضغط صفر\nلا يوجد توقيت. لا حياة. خذ ما تحتاجه. إذا واجهتك مشكلة، أو تراجعت، أو تلميحت، أو أضفت أنبوبًا - فلن تتعثر أبدًا إلى الأبد."
+    }
+  }
+}

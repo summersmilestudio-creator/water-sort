@@ -1,0 +1,143 @@
+{
+  "package_name": "ro.summersmile.watersort",
+  "apple_app_id": "6767268284",
+  "display_name": "Water Sort Puzzle",
+  "leaderboards": [
+    {
+      "id": "water_sort_high_score",
+      "name": "High Score",
+      "score_format": "INTEGER",
+      "ordering": "LARGER_IS_BETTER",
+      "icon": "D:/water_sort/game_center_icons/high_score.png"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "first_solve",
+      "name": "First Solve",
+      "points": 5,
+      "description": "Solve your first water sort puzzle.",
+      "earned_description": "You solved your first puzzle!",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/first_solve.png"
+    },
+    {
+      "id": "solves_10",
+      "name": "Solve 10",
+      "points": 25,
+      "description": "Solve 10 puzzles.",
+      "earned_description": "You solved 10 puzzles.",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/solves_10.png"
+    },
+    {
+      "id": "solves_50",
+      "name": "Solve 50",
+      "points": 75,
+      "description": "Solve 50 puzzles.",
+      "earned_description": "You solved 50 puzzles.",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/solves_50.png"
+    },
+    {
+      "id": "solves_100",
+      "name": "Solve 100",
+      "points": 100,
+      "description": "Solve 100 puzzles.",
+      "earned_description": "You solved 100 puzzles!",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/solves_100.png"
+    },
+    {
+      "id": "no_undo",
+      "name": "Pure Mind",
+      "points": 100,
+      "description": "Solve a puzzle without using undo.",
+      "earned_description": "You solved without undo!",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/no_undo.png"
+    },
+    {
+      "id": "fast_solve",
+      "name": "Speed Solver",
+      "points": 100,
+      "description": "Solve a puzzle in under 30 seconds.",
+      "earned_description": "You solved a puzzle quickly!",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/fast_solve.png"
+    },
+    {
+      "id": "streak_7",
+      "name": "7-Day Streak",
+      "points": 150,
+      "description": "Play Water Sort for 7 days straight.",
+      "earned_description": "You played for 7 days in a row.",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/streak_7.png"
+    },
+    {
+      "id": "water_master",
+      "name": "Water Master",
+      "points": 200,
+      "description": "Reach the highest difficulty level.",
+      "earned_description": "You are a true Water Master!",
+      "type": "STANDARD",
+      "initial_state": "REVEALED",
+      "icon": "D:/water_sort/game_center_icons/water_master.png"
+    }
+  ],
+  "iaps": [
+    {
+      "sku": "remove_ads",
+      "type": "managed",
+      "consumable": false,
+      "name": "Remove Ads",
+      "description": "Remove all ads from the game forever.",
+      "price_micros": 2990000,
+      "currency": "USD"
+    },
+    {
+      "sku": "diamonds_100",
+      "type": "managed",
+      "consumable": true,
+      "name": "100 Diamonds",
+      "description": "Get 100 diamonds to use in-game.",
+      "price_micros": 990000,
+      "currency": "USD"
+    },
+    {
+      "sku": "diamonds_500",
+      "type": "managed",
+      "consumable": true,
+      "name": "500 Diamonds + 50 Bonus",
+      "description": "Get 500 diamonds plus a 50 diamond bonus.",
+      "price_micros": 4990000,
+      "currency": "USD"
+    },
+    {
+      "sku": "diamonds_1200",
+      "type": "managed",
+      "consumable": true,
+      "name": "1200 Diamonds + 200 Bonus",
+      "description": "Get 1200 diamonds plus a 200 diamond bonus.",
+      "price_micros": 9990000,
+      "currency": "USD"
+    },
+    {
+      "sku": "diamonds_3000",
+      "type": "managed",
+      "consumable": true,
+      "name": "3000 Diamonds + 800 Bonus",
+      "description": "Get 3000 diamonds plus a 800 diamond bonus.",
+      "price_micros": 19990000,
+      "currency": "USD"
+    }
+  ]
+}

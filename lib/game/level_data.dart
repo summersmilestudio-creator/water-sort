@@ -1,5 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
+import 'skins.dart';
 
 const kBottleCapacity = 4;
 
@@ -35,14 +36,15 @@ class WaterLevel {
 
   static WaterLevel generate(int level) {
     // Increase difficulty: 4 colors @ lvl 1 → 8 @ lvl 5+
-    final numColors = (3 + (level / 2).floor()).clamp(3, kColors.length);
+    final palette = activeSkin().liquids;
+    final numColors = (3 + (level / 2).floor()).clamp(3, palette.length);
     final emptyBottles = level >= 3 ? 2 : 1;
 
     // Build solved state then shuffle
     final all = <Color>[];
     for (var i = 0; i < numColors; i++) {
       for (var j = 0; j < kBottleCapacity; j++) {
-        all.add(kColors[i]);
+        all.add(palette[i]);
       }
     }
     all.shuffle(Random(level * 1000));

@@ -1,7 +1,7 @@
 name: water_sort
 description: "Water Sort Puzzle — sortează lichidul colorat în sticle"
 publish_to: 'none'
-version: 1.0.3+4
+version: 1.0.6+9
 environment:
   sdk: ^3.11.1
 
@@ -10,7 +10,14 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.8
   shared_preferences: ^2.3.2
+  in_app_purchase: ^3.2.0
+  upgrader: ^11.4.0
+  in_app_review: ^2.0.9
   google_mobile_ads: ^5.3.1
+  audioplayers: ^6.1.0
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.4
+  flutter_timezone: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -29,3 +36,5 @@ flutter_launcher_icons:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/sfx/
