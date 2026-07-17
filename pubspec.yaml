@@ -1,7 +1,7 @@
 name: water_sort
 description: "Water Sort Puzzle — sortează lichidul colorat în sticle"
 publish_to: 'none'
-version: 1.0.6+9
+version: 1.0.7+10
 environment:
   sdk: ^3.11.1
 
